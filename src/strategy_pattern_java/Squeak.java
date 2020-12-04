@@ -1,4 +1,4 @@
-package Strategy;
+package strategy_pattern_java;
 
 public class Squeak implements QuackBehaviour{
 
