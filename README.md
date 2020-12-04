@@ -6,3 +6,4 @@
 - [x] [Observer Pattern](src/observable_pattern) 
 - [x] [Observer Pattern Using Java](src/observable_pattern_java)
 - [x] [Strategy Pattern Using Java](src/strategy_pattern_java)
+- [x] [Strategy Pattern Using Java](src/strategy_exercise)
