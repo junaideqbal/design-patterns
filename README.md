@@ -1,4 +1,4 @@
-### Design Patterns
+### Design Patterns Course Work
 
 [Download Slides](AdvancedSE.pdf)
 
